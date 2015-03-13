@@ -1,3 +1,5 @@
+Cloned from : https://github.com/zackshapiro/chrome-extension-template
+
 # **Example Chrome Extension**
 
 This is a blank template Chrome extension with a basic event/message passing skeleton for you to easily get started building a Chrome extension.
